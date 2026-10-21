@@ -56,3 +56,7 @@ const questions = [
 
 - `index.html` をブラウザで開いて確認する。
 - 変更後は、最初の問題から結果画面まで一通り遊べることを確認する。
+
+## GitHubリポジトリ
+
+https://github.com/Timmy-0123bot/quiz-app2.git
